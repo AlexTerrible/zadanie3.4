@@ -14,3 +14,4 @@ for key, value in groc_dict.items():
 print ('W sumie kupuje %s produktów.' % (suma))
 print ('dodanie pierwszego commita')
 print ('dodanie drugiego commita')
+print ('Specjalne pozdrowienia')
