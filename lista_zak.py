@@ -13,3 +13,4 @@ for key, value in groc_dict.items():
     print('Idę do %s, kupuję tu następujące rzeczy: %s' % (key.upper(), value))
 print ('W sumie kupuje %s produktów.' % (suma))
 print ('dodanie pierwszego commita')
+print ('dodanie drugiego commita')
